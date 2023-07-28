@@ -1,3 +1,4 @@
+ /* image hover efect  --start--*/
 * {
     padding: 0px;
     margin: 0px;
@@ -45,3 +46,8 @@ h1 {
 .gallery .box img:hover {
     transform: scale(1.4);
 }
+.onver_txt:hover{
+    color: red;
+}
+
+/* image hover efect  --end--*/
